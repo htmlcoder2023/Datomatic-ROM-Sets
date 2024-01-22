@@ -1,3 +1,3 @@
 # Datomatic-ROM-Sets
 
-This repository intends to store Datomatic ROM Sets. Under construction.
+This repository intends to store Datomatic ROM Databases. Under construction.
